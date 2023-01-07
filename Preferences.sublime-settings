@@ -4,6 +4,8 @@
 		"Vintage",
 		// "AdvancedNewFile",
 		// "Elm Format on Save",
+/*"xml2json",*/
+/*"Vue Syntax Highlight",*/
 	],
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Mariana.sublime-color-scheme",
@@ -14,5 +16,5 @@
 	"font_size": 14,
 	"line_padding_top": 4,
 	"line_padding_bottom": 2,
-	"update_check": false
+	"update_check": false,
 }
