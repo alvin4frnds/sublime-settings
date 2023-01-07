@@ -1,0 +1,16 @@
+[
+	
+	{ "keys": ["option+d"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["option+1"], "command": "toggle_side_bar" },
+	{ "keys": ["super+w"], "command": "expand_selection", "args": {"to": "smart"} },
+	{ "keys": ["option+w"], "command": "close" },
+	{ "keys": ["super+u"], "command": "redo" },
+	{ "keys": ["super+x"], "command": "cut" },
+	{ "keys": ["super+c"], "command": "copy" },
+	{ "keys": ["super+v"], "command": "paste" },
+	{ "keys": ["ctrl+x"], "command": "cut" },
+	{ "keys": ["ctrl+c"], "command": "copy" },
+	{ "keys": ["ctrl+v"], "command": "paste" },
+	{ "keys": ["option+f"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+]

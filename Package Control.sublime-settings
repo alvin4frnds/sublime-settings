@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Elm Format on Save",
+		"LSP-volar",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Python 3",
+		"Vue Syntax Highlight",
+	],
+}
